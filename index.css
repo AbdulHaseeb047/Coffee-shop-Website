@@ -1071,13 +1071,15 @@ transition: opacity 0.3s ease;
   .c1 {
     width: 90%;
   }
-
+.c3 hr{
+  width: 100%;
+}
   .content-3 h2 {
     font-size: 2rem;
   }
 
   .content-3 h3 {
-    font-size: 1.5rem;
+    font-size: 1.8rem;
   }
 }
 
